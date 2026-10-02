@@ -206,7 +206,8 @@ a {
 
 .competition-card h3 {
   margin-top: 30px;
-  font-size: 1.
+  font-size: 1.6rem;
+}
 /* MOBILE */
 @media (max-width: 700px) {
 
